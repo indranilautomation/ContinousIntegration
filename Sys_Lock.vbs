@@ -1,4 +1,4 @@
-#Test
+#Test1
 set wsc = CreateObject("WScript.Shell")
 Do
 WScript.Sleep (60*1000)
